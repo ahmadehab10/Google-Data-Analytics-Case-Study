@@ -1,5 +1,5 @@
 # Google-Data-Analytics-Case-Study
-<h1>Final Project</h1>
+<h2>Final Project</h2>
 This was my final project in my Google Data Analytics Journey and it really encompassed what i have learned throughout all of the courses in this certificate by including
 all of the stages of the data analysis steps and allowing me to utilize different data analysis software to cater to my needs.<br>
 
@@ -7,7 +7,7 @@ all of the stages of the data analysis steps and allowing me to utilize differen
 the purpose was to solve a case study regarding Bellabeat, which is a company that produces various fitness products to women. At bellabeat they wanted me to analyze a dataset 
 that included fitbit fitness trackers for 30 users and to analyze any trends in their usages that would benefit Bellabeat from a marketing strategy and product development standpoint<br>
 
-<h2Skills Applied</h2>
+<h2>Skills Applied</h2>
 <ul>
   <li>R programming Language</li>
   <li>R markdown</li>
